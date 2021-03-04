@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to 侨光学院's documentation!
+欢迎来到广州侨光财经专修学院教学资源库!
 ====================================
 
 .. toctree::
